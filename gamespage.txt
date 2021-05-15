@@ -1,0 +1,7 @@
+<HTML>
+<HEAD><TITILE>Make your own game</TITLE></HEAD>
+<BODY>
+<H1><MARQUEE> My games</MARQUEE></H1><BR>
+<IMG SRC=C:\Pictures\mygamepc.jpg>
+</BODY>
+</HTML>
